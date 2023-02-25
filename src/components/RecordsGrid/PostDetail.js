@@ -1,6 +1,6 @@
 import React from 'react'
-import './App.css';
-import Logo from './logo.svg'
+//import './App.css';
+import Logo from '../../logo.svg'
 function PostDetail({PostDetail,backButtonClick}) {
   return (
     <div>
